@@ -8,6 +8,10 @@ Template: twentysixteen
  */
 
 @import url("../twentysixteen/style.css");
+@import url('https://fonts.googleapis.com/css?family=BioRhyme+Expanded');
+/* font-family: 'BioRhyme Expanded', serif; */
+
+
 .site-branding .site-title a {
 	color: #00b9eb;
 }
@@ -21,4 +25,8 @@ Template: twentysixteen
 
 .site{
 	background-color: #e4abe4;
+} 
+
+.entry-title{
+	font-family: 'BioRhyme Expanded', serif;
 }
