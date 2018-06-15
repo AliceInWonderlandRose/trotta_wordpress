@@ -30,3 +30,22 @@ Template: twentysixteen
 .entry-title{
 	font-family: 'BioRhyme Expanded', serif;
 }
+
+.widget .widget-title {
+    font-family: 'BioRhyme Expanded', serif;
+    font-size: 1.5rem;
+    text-transform: none;
+    }
+.main-navigation a {
+
+	color: #b11058;
+}
+
+.main-navigation a: hover, .main-navigation a:focus {
+
+	color: #00cc00;
+} 
+
+
+
+
