@@ -46,6 +46,20 @@ Template: twentysixteen
 	color: #00cc00;
 } 
 
+@media screen and (min-width: 56.875em) {
+	.widget .widget-title {
+		font-size: 1rem;
+}
 
+.entry-header::before{
+	background-color: chartreuse;
+	content: "Featured Contnet";
+	font-family: 'BioRhyme Expanded', serif;
+	display: block;
+	text-align: center;
+	font-size: 80%;
+	padding: 1em ;
+}
+}
 
 
