@@ -16,10 +16,13 @@ Template: twentysixteen
 	color: #00b9eb;
 }
 
-.site-branding .site-title a:hover, .site-branding .site-title a:focus {
+/*.site-branding .site-title a:hover, .site-branding .site-title a:focus {
     color: #ff13e9;
 
-}.site-description {
+}
+*/ 
+
+.site-description {
     font-size: 1.2rem;   
 }
 
